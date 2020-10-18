@@ -1,8 +1,9 @@
-@import "./style.scss";
+@import "./variables.scss";
 @import "./global.scss";
+@import "./navbar.scss";
+@import "./footer.scss";
 
 .about {
-    height: 30vh;
     width: 100%;
     background-color: $primary-lightgrey;
     padding: 1rem 4rem;
